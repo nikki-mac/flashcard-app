@@ -8,7 +8,7 @@ This is a front-end application project that allows a user to create, edit, and 
 - Add / Edit / Delete flashcard decks
 - Study front and back of flashcards by flipping through each card in a deck
 
-## 📚 Learning objectives
+## 📚 Learning Objectives
 This project was designed to test our ability to work with rendering and state management using React. 
 Before taking on this project, we needed to be comfortable with the learning objectives listed below:
 
@@ -25,3 +25,4 @@ Before taking on this project, we needed to be comfortable with the learning obj
 - Javascript
 - CSS
 - Bootstrap
+- Heroku Deployment
