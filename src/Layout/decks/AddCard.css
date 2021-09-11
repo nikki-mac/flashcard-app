@@ -1,3 +1,6 @@
+/* added in a toast alert to show 
+when a new card has been successfully added */
+
 .card-toast.alert {
   position: fixed;
   left: 50%;
