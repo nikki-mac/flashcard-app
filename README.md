@@ -1,12 +1,13 @@
 # Flashcard-o-matic
 [Click here to view](https://lit-tor-07018.herokuapp.com/)
 
-This is a front-end application project that allows a user to create, edit, and flip through flashcard decks to test their knowledge and study.
+This is a front-end application project that allows a user to create and edit custom flashcard decks containing double-sided flashcards. 
 
 ## ⭐️ App Features
 - Add / Edit / Delete flashcards
-- Add / Edit / Delete flashcard decks
+- Add / Edit / Delete entire flashcard decks
 - Study front and back of flashcards by flipping through each card in a deck
+- Study an entire deck beginning to end, and loop around to the beginning again if you want more study time!
 
 ## 📚 Learning Objectives
 This project was designed to test our ability to work with rendering and state management using React. 
